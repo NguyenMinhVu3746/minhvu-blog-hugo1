@@ -11,7 +11,7 @@ enableEmoji = true
 
 [params]
   description = "Blog cá nhân chia sẻ hành trình và kinh nghiệm học lập trình JavaScript"
-  author = "Sinh viên IT"
+  author = "Nguyễn Minh Vũ" # <-- ĐÃ SỬA TÊN TÁC GIẢ TẠI ĐÂY
   authorImage = "/images/avatar.jpg"
   dateFormat = "02/01/2006"
   mainSections = ["posts"]

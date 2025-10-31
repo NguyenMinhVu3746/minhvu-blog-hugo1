@@ -3,44 +3,44 @@ title: "Giới thiệu"
 date: 2025-10-18
 draft: false
 layout: "about"
-description: "Tìm hiểu về Phan Mạnh Tân - Lập trình viên Full-stack đam mê công nghệ"
-image: "/images/manhtan.jpg"
+description: "Nguyễn Minh Vũ: Kỹ sư phần mềm Full-stack. Tôi xây dựng sản phẩm, không chỉ là ứng dụng. Chuyên gia về Tối ưu hóa Web Vitals và Kiến trúc Cloud."
+image: "/images/nguyenminhvu.jpg"
 ---
 
 <div class="cv-container">
 
-## Khi Đam Mê Gặp Gỡ Sáng Tạo 🚀
+## Kỹ Sư Tác Động: Chuyển Đổi Dữ Liệu Thành Giá Trị Kinh Doanh 🚀
 
 <div class="cv-section">
-<p class="cv-intro">Tôi tin rằng công nghệ không chỉ là những dòng code, mà còn là cây cầu kết nối giữa ý tưởng và hiện thực. Mỗi dòng code tôi viết đều mang trong mình mục tiêu tạo ra những sản phẩm có ý nghĩa, giải quyết các vấn đề thực tế và mang đến trải nghiệm tuyệt vời cho người dùng.</p>
+<p class="cv-intro">Tôi là **Nguyễn Minh Vũ**, một Full-stack Engineer với niềm đam mê sâu sắc trong việc tạo ra những ứng dụng **tối ưu về hiệu suất và có khả năng mở rộng hàng đầu**. Tôi không chỉ tuân theo quy trình, tôi **định hình** quy trình, sử dụng **Next.js** và **Node.js** để đảm bảo mọi sản phẩm đều mang lại giá trị định lượng cao nhất cho người dùng và doanh nghiệp.</p>
 </div>
 
-### 🎯 Triết Lý Của Tôi
+### 🎯 Tuyên Ngôn Triết Lý (My Product Philosophy)
 
 <div class="philosophy-section">
 <blockquote class="cv-quote">
-"Code là một bài thơ đang chuyển động. Mỗi hàm là một câu chuyện, mỗi thuật toán giải một câu đố, và mỗi ứng dụng đều có thể thay đổi cuộc sống."
+"Nếu bạn không thể đo lường nó, bạn không thể cải thiện nó. Mọi quyết định kỹ thuật đều phải dựa trên tác động lên người dùng cuối."
 </blockquote>
 
-<p class="cv-text">Đối với tôi, lập trình không chỉ là nghề nghiệp mà còn là đam mê. Tôi luôn tìm kiếm những thử thách mới, học hỏi công nghệ tiên tiến và không ngừng hoàn thiện bản thân.</p>
+<p class="cv-text">Triết lý của tôi là **"Product-First Engineering"**. Tôi luôn đặt mục tiêu kinh doanh và trải nghiệm người dùng lên hàng đầu khi đưa ra bất kỳ quyết định kiến trúc nào, đảm bảo sự cân bằng giữa **tốc độ phát triển** và **tính bền vững lâu dài** của hệ thống.</p>
 </div>
 
-### 🌟 Điều Khiến Tôi Khác Biệt
+### 🌟 Sức Mạnh Cốt Lõi (Core Superpowers)
 
 <div class="differentiators-section">
 <div class="differentiator-item">
-<h4 class="cv-subtitle">Người giải quyết vấn đề sáng tạo</h4>
-<p class="cv-text">Tôi không chỉ viết code, mà còn suy nghĩ về trải nghiệm người dùng, tối ưu hiệu năng và khả năng bảo trì lâu dài.</p>
+<h4 class="cv-subtitle">Thành thạo về Hiệu suất (Performance Mastery)</h4>
+<p class="cv-text">**Giảm 45%** thời gian tải trang trung bình (LCP) trên các dự án quy mô lớn. Cam kết tối ưu hóa cho tốc độ và khả năng phản hồi.</p>
 </div>
 
 <div class="differentiator-item">
-<h4 class="cv-subtitle">Người học không ngừng</h4>
-<p class="cv-text">Công nghệ thay đổi từng ngày, và tôi luôn cập nhật các xu hướng mới nhất từ React 18, Next.js 13 cho đến AI/ML.</p>
+<h4 class="cv-subtitle">Kiến trúc Cloud-Native (AWS & Docker)</h4>
+<p class="cv-text">Xây dựng và quản lý các ứng dụng container hóa, triển khai trên Cloud (AWS/Vercel) với các giải pháp DevOps và Monitoring hiệu quả.</p>
 </div>
 
 <div class="differentiator-item">
-<h4 class="cv-subtitle">Người đồng đội tốt</h4>
-<p class="cv-text">Làm việc hiệu quả trong nhóm, chia sẻ kiến thức và luôn sẵn sàng hỗ trợ đồng nghiệp.</p>
+<h4 class="cv-subtitle">Xử lý Dữ liệu Phức tạp</h4>
+<p class="cv-text">Kinh nghiệm thiết kế DB và tối ưu hóa truy vấn cho các hệ thống có lượng dữ liệu lớn (Big Data) bằng PostgreSQL và MongoDB Aggregation.</p>
 </div>
 </div>
 
@@ -60,7 +60,7 @@ image: "/images/manhtan.jpg"
 </div>
 </div>
 
-### 🎓 Thành Tích Học Tập
+### 🎓 Nền Tảng Giáo Dục
 
 <div class="education-section">
 <div class="education-item">
@@ -69,513 +69,136 @@ image: "/images/manhtan.jpg"
 
 <div class="education-details">
 <ul class="cv-list">
-<li>Chuyên ngành: <span class="highlight">Công nghệ Phần mềm</span></li>
-<li>GPA: <span class="highlight">2.9/4.0</span> </li>
+<li>Chuyên ngành: <span class="highlight">Kỹ thuật Phần mềm & Hệ thống Phân tán</span></li>
+<li>GPA: <span class="highlight">2.9/4.0 (Nền tảng vững chắc về Khoa học Máy tính)</span> </li>
 </ul>
 </div>
 
-<p class="cv-text">Những năm tháng đại học không chỉ mang đến cho tôi nền tảng kiến thức vững chắc mà còn giúp rèn luyện tư duy logic, kỹ năng giải quyết vấn đề và khả năng làm việc nhóm.</p>
+<p class="cv-text">Học sâu về nguyên lý thiết kế hệ thống có khả năng chịu lỗi và mở rộng, bao gồm lập trình đa luồng, mô hình hóa dữ liệu quan hệ và phi quan hệ, cùng với các phương pháp kiểm thử hiện đại.</p>
 </div>
 </div>
 
-### 💼 Hành Trình Nghề Nghiệp
+### 💼 Chuyên Môn Sâu
 
 <div class="career-section">
 <div class="career-category">
-<h4 class="cv-subtitle">Frontend Excellence</h4>
-<p class="cv-text">Tôi đặc biệt đam mê phát triển giao diện người dùng (frontend) – nơi tôi có thể biến những thiết kế phức tạp thành hiện thực.</p>
+<h4 class="cv-subtitle">Kiến trúc Frontend Hiện đại (Next.js/React)</h4>
+<p class="cv-text">Xây dựng trải nghiệm người dùng với khả năng tải siêu tốc. Áp dụng Server Components, tối ưu hóa Hydration và giảm thiểu JavaScript Bundle Size.</p>
 
 <div class="tech-list">
 <ul class="cv-tech-list">
-<li><span class="tech-item">React.js Ecosystem</span>: Hooks, Context API, Redux, Next.js</li>
-<li><span class="tech-item">Modern CSS</span>: Flexbox, Grid, Animation, Sass/SCSS</li>
-<li><span class="tech-item">JavaScript ES6+</span>: Async/Await, Modules, Destructuring</li>
-<li><span class="tech-item">Build Tools</span>: Webpack, Vite, Parcel</li>
+<li><span class="tech-item">Frameworks</span>: Next.js, React (Hooks, Context, Zustand)</li>
+<li><span class="tech-item">Styling & Môi trường</span>: Tailwind CSS, SCSS Modules, Vite/Webpack</li>
+<li><span class="tech-item">Code Quality</span>: Eslint, Prettier, Static Analysis Tools</li>
 </ul>
 </div>
 </div>
 
 <div class="career-category">
-<h4 class="cv-subtitle">Backend Mastery</h4>
-<p class="cv-text">Phần backend là "xương sống" của mọi ứng dụng, và tôi hiểu rõ tầm quan trọng của việc xây dựng hệ thống API có thể mở rộng.</p>
+<h4 class="cv-subtitle">Hệ thống Back-end Hiệu suất & Bảo mật</h4>
+<p class="cv-text">Phát triển các API bền vững, an toàn, có khả năng xử lý lượng truy cập lớn và giao tiếp hiệu quả giữa các Microservices.</p>
 
 <div class="tech-list">
 <ul class="cv-tech-list">
-<li><span class="tech-item">Node.js & Express</span>: RESTful APIs, Middleware, Authentication</li>
-<li><span class="tech-item">Thiết kế Cơ sở dữ liệu</span>: Tối ưu MySQL, Aggregation trong MongoDB</li>
-<li><span class="tech-item">Quản lý Máy chủ</span>: Linux, Docker, DevOps cơ bản</li>
+<li><span class="tech-item">API/Runtime</span>: Node.js (TypeScript), Express/Koa, GraphQL (Apollo)</li>
+<li><span class="tech-item">Database & Cache</span>: PostgreSQL (Tối ưu), MongoDB (Sharding), Redis (Distributed Cache)</li>
+<li><span class="tech-item">DevOps</span>: Docker, AWS ECS/ECR, CI/CD Pipelines (GitHub Actions/GitLab)</li>
 </ul>
 </div>
 </div>
 
 <div class="career-category">
-<h4 class="cv-subtitle">Full-Stack Integration</h4>
-<p class="cv-text">Kết hợp frontend và backend để tạo nên các ứng dụng hoàn chỉnh là điểm mạnh của tôi.</p>
+<h4 class="cv-subtitle">Tư duy Lãnh đạo Kỹ thuật (Technical Ownership)</h4>
+<p class="cv-text">Có trách nhiệm từ A đến Z: từ việc tạo yêu cầu kỹ thuật, phát triển, kiểm thử, đến giám sát hiệu suất hệ thống trên Production.</p>
 </div>
 </div>
 
-### 🚀 Dự Án Nổi Bật
+### 🚀 Dự Án Nổi Bật (Measured Impact)
 
 <div class="projects-section">
 <div class="project-item">
-<h4 class="cv-subtitle">Smart Library Management System</h4>
+<h4 class="cv-subtitle">Nền tảng SaaS Quản lý Dịch vụ Cloud</h4>
 <div class="project-meta">
-<span class="tech-stack">React.js, Node.js, MySQL, JWT Authentication</span>
+<span class="tech-stack">Next.js (App Router), Node.js, PostgreSQL, Redis, Docker</span>
 </div>
 <ul class="cv-list">
-<li><strong>Điểm nổi bật:</strong> Theo dõi sách theo thời gian thực, tìm kiếm nâng cao, bảng điều khiển phân tích dữ liệu</li>
-<li><strong>Tác động:</strong> Giảm 60% thời gian quản lý thư viện</li>
+<li><strong>Thành tựu:</strong> Thiết kế DB và Query tối ưu, giảm **latency** của API quan trọng từ 350ms xuống **dưới 80ms**.</li>
+<li><strong>Tác động:</strong> Cải thiện **User Engagement** (Thời gian người dùng trên nền tảng) lên **20%** nhờ tốc độ phản hồi nhanh hơn.</li>
 </ul>
 </div>
 
 <div class="project-item">
-<h4 class="cv-subtitle">Personal Blog Platform <span class="current-project">(Dự án hiện tại)</span></h4>
+<h4 class="cv-subtitle">Technical Blog & Portfolio (Hiện tại)</h4>
 <div class="project-meta">
-<span class="tech-stack">Hugo, Modern CSS, JavaScript thuần</span>
+<span class="tech-stack">Hugo, SCSS, Dart Sass, Netlify, Core Web Vitals Optimization</span>
 </div>
 <ul class="cv-list">
-<li><strong>Tính năng:</strong> Thiết kế responsive, dark mode, tối ưu SEO</li>
-<li><strong>Hiệu suất:</strong> Điểm PageSpeed của Google > 95</li>
+<li><strong>Tính năng:</strong> Thiết lập quy trình CI/CD tự động deploy và kiểm tra SEO/Performance.</li>
+<li><strong>Hiệu suất:</strong> Đạt điểm Lighthouse Performance **100/100** trên di động, đảm bảo tải siêu tốc trên mọi thiết bị.</li>
 </ul>
 </div>
 
 <div class="project-item">
-<h4 class="cv-subtitle">E-commerce Dashboard</h4>
+<h4 class="cv-subtitle">Hệ thống Phân tích & Trực quan hóa Dữ liệu E-commerce</h4>
 <div class="project-meta">
-<span class="tech-stack">React.js, Chart.js, REST APIs</span>
+<span class="tech-stack">React (Zustand), WebSockets, Express.js, MongoDB Aggregation</span>
 </div>
 <ul class="cv-list">
-<li><strong>Tính năng:</strong> Phân tích doanh thu theo thời gian thực, quản lý tồn kho</li>
-<li><strong>Kết quả:</strong> Tăng hiệu quả ra quyết định lên 40%</li>
+<li><strong>Tính năng:</strong> Cung cấp biểu đồ và báo cáo **Real-time** cho 10+ chỉ số kinh doanh.</li>
+<li><strong>Kết quả:</strong> Giúp đội ngũ bán hàng đưa ra quyết định dựa trên dữ liệu nhanh hơn, **tăng tỷ lệ chuyển đổi 5%**.</li>
 </ul>
 </div>
 </div>
 
-### 🎨 Triết Lý Thiết Kế
+### 🎨 Triết Lý Thiết Kế & UX/UI
 
 <div class="design-philosophy">
-<p class="cv-text">Tôi tin rằng trải nghiệm người dùng tuyệt vời bắt đầu từ giao diện người dùng tuyệt vời. Khi phát triển, tôi luôn chú trọng:</p>
+<p class="cv-text">Thiết kế không phải là trang trí; đó là về hiệu quả và sự dễ dàng. Tôi tích hợp tư duy thiết kế vào mọi giai đoạn phát triển.</p>
 
 <div class="design-principles">
 <div class="principle-item">
-<h5 class="principle-title">Tiếp cận dễ dàng (Accessibility First)</h5>
-<p class="principle-desc">Tuân thủ tiêu chuẩn WCAG, sử dụng HTML có ngữ nghĩa</p>
+<h5 class="principle-title">Tư duy Phát triển Linh hoạt (Agile & Scrum)</h5>
+<p class="principle-desc">Làm việc theo Sprint, ưu tiên Feedback Loop nhanh chóng và khả năng thích ứng.</p>
 </div>
 
 <div class="principle-item">
-<h5 class="principle-title">Thiết kế Mobile-First</h5>
-<p class="principle-desc">Tương thích với mọi thiết bị, thân thiện với thao tác cảm ứng</p>
+<h5 class="principle-title">Bảo mật Tích hợp (Security by Design)</h5>
+<p class="principle-desc">Áp dụng các biện pháp bảo mật OWASP Top 10 trong quá trình coding và review.</p>
 </div>
 
 <div class="principle-item">
-<h5 class="principle-title">Tối ưu hiệu năng</h5>
-<p class="principle-desc">Lazy loading, code splitting</p>
+<h5 class="principle-title">Quản lý Phức tạp</h5>
+<p class="principle-desc">Sử dụng Design Patterns (ví dụ: Factory, Observer) để xử lý các logic phức tạp một cách có tổ chức.</p>
 </div>
 
 <div class="principle-item">
-<h5 class="principle-title">Lấy người dùng làm trung tâm</h5>
-<p class="principle-desc">Dễ điều hướng, CTA rõ ràng</p>
+<h5 class="principle-title">Lấy Kết quả làm Trọng tâm (Result-Oriented)</h5>
+<p class="principle-desc">Mọi tính năng được triển khai đều phải có chỉ số đo lường (KPI) rõ ràng về tác động kinh doanh.</p>
 </div>
 </div>
 </div>
 
-### 🔧 Công Cụ & Công Nghệ
+### 🔧 Công Cụ & Môi trường
 
 <div class="tools-section">
 <div class="tools-category">
-<h4 class="cv-subtitle">Môi trường phát triển</h4>
+<h4 class="cv-subtitle">Hệ sinh thái Phát triển & Kiểm thử</h4>
 <ul class="cv-tech-list">
-<li><span class="tech-item">Trình soạn thảo</span>: VS Code với nhiều tiện ích mở rộng</li>
-<li><span class="tech-item">Quản lý phiên bản</span>: Git/GitHub, conventional commits</li>
-<li><span class="tech-item">Thiết kế</span>: Figma cho UI/UX collaboration</li>
-<li><span class="tech-item">Kiểm thử</span>: Jest, Cypress (end-to-end testing)</li>
+<li><span class="tech-item">Source Control</span>: Git (Advanced Rebase/Merge), GitHub Actions</li>
+<li><span class="tech-item">Code Quality</span>: ESLint, SonarQube, Prettier</li>
+<li><span class="tech-item">Testing & Monitoring</span>: Jest, Cypress, Prometheus, Sentry</li>
+<li><span class="tech-item">Prototyping & Workflow</span>: Figma, Jira, Confluence</li>
 </ul>
 </div>
 
 <div class="tools-category">
-<h4 class="cv-subtitle">Ngăn xếp công nghệ yêu thích</h4>
+<h4 class="cv-subtitle">Ngăn xếp công nghệ yêu thích (Cloud-Native JS)</h4>
 <div class="code-block">
 ```javascript
-const myStack = {
-  frontend: ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
-  backend: ['Node.js', 'Express', 'MongoDB', 'PostgreSQL'],
-  tools: ['Docker', 'AWS', 'Vercel', 'GitHub Actions'],
-  learning: ['GraphQL', 'React Native', 'Python Django']
+const myPreferredStack = {
+  runtime: 'Node.js (TypeScript)',
+  database: 'PostgreSQL / MongoDB / Redis',
+  frontend: ['Next.js (React)', 'Tailwind CSS'],
+  cloud_devops: ['Docker', 'AWS ECS/S3/Lambda', 'CI/CD Pipelines'],
+  api: ['GraphQL', 'REST']
 };
-```
-</div>
-</div>
-</div>
-
-</div>
-
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-<style>
-/* CV-Style Typography and Layout */
-.cv-container {
-  font-family: 'Georgia', 'Times New Roman', serif;
-  line-height: 1.6;
-  color: #2c3e50;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-/* Professional Typography */
-.cv-container h2 {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 1.8rem;
-  font-weight: 600;
-  color: #2c3e50;
-  margin: 2rem 0 1rem 0;
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 0.5rem;
-}
-
-.cv-container h3 {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 1.4rem;
-  font-weight: 600;
-  color: #34495e;
-  margin: 1.5rem 0 1rem 0;
-}
-
-.cv-subtitle {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 1.1rem;
-  font-weight: 600;
-  color: #2980b9;
-  margin: 1rem 0 0.5rem 0;
-}
-
-.cv-text {
-  font-size: 0.95rem;
-  line-height: 1.7;
-  margin-bottom: 1rem;
-  text-align: justify;
-}
-
-.cv-intro {
-  font-size: 1.05rem;
-  line-height: 1.8;
-  font-style: italic;
-  color: #34495e;
-  margin-bottom: 1.5rem;
-  text-align: justify;
-}
-
-/* Quote Styling */
-.cv-quote {
-  font-size: 1.1rem;
-  font-style: italic;
-  color: #2980b9;
-  background: #ecf0f1;
-  border-left: 4px solid #3498db;
-  padding: 1rem 1.5rem;
-  margin: 1.5rem 0;
-  position: relative;
-}
-
-.cv-quote::before {
-  content: '"';
-  font-size: 3rem;
-  color: #3498db;
-  position: absolute;
-  top: -0.5rem;
-  left: 0.5rem;
-}
-
-/* Professional Sections */
-.cv-section {
-  margin-bottom: 2rem;
-  padding: 1.5rem;
-  background: #fafafa;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-}
-
-/* Certificates Section */
-.certificates-section {
-  margin: 2rem 0;
-  padding: 1.5rem;
-  background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
-  border-radius: 12px;
-  border: 1px solid #dee2e6;
-}
-
-.certificates-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 2rem;
-  margin-top: 1.5rem;
-  justify-items: center;
-}
-
-.certificate-item {
-  background: white;
-  padding: 1rem;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
-  border: 2px solid #e9ecef;
-}
-
-.certificate-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 4px 16px rgba(0,0,0,0.15);
-}
-
-/* Differentiators */
-.differentiators-section {
-  display: grid;
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.differentiator-item {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border-left: 4px solid #3498db;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-/* Education Section */
-.education-section {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-  margin: 1rem 0;
-}
-
-.education-item {
-  position: relative;
-}
-
-.cv-meta {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 0.9rem;
-  color: #7f8c8d;
-  font-weight: 500;
-  margin-bottom: 0.5rem;
-}
-
-.education-details {
-  margin: 1rem 0;
-}
-
-/* Career Section */
-.career-section {
-  display: grid;
-  gap: 2rem;
-  margin: 1.5rem 0;
-}
-
-.career-category {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-}
-
-/* Projects Section */
-.projects-section {
-  display: grid;
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.project-item {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-  position: relative;
-}
-
-.project-meta {
-  margin: 0.5rem 0 1rem 0;
-}
-
-.tech-stack {
-  font-family: 'Monaco', 'Consolas', monospace;
-  font-size: 0.85rem;
-  background: #f8f9fa;
-  color: #495057;
-  padding: 0.3rem 0.6rem;
-  border-radius: 4px;
-  border: 1px solid #dee2e6;
-}
-
-.current-project {
-  font-size: 0.8rem;
-  color: #28a745;
-  font-weight: 500;
-  background: #d4edda;
-  padding: 0.2rem 0.5rem;
-  border-radius: 3px;
-  margin-left: 0.5rem;
-}
-
-/* Lists */
-.cv-list {
-  list-style: none;
-  padding-left: 0;
-  margin: 1rem 0;
-}
-
-.cv-list li {
-  position: relative;
-  padding-left: 1.5rem;
-  margin-bottom: 0.5rem;
-  line-height: 1.6;
-}
-
-.cv-list li::before {
-  content: '▸';
-  color: #3498db;
-  font-weight: bold;
-  position: absolute;
-  left: 0;
-}
-
-.cv-tech-list {
-  list-style: none;
-  padding-left: 0;
-  margin: 1rem 0;
-}
-
-.cv-tech-list li {
-  position: relative;
-  padding-left: 1rem;
-  margin-bottom: 0.7rem;
-  line-height: 1.6;
-}
-
-.cv-tech-list li::before {
-  content: '●';
-  color: #2980b9;
-  position: absolute;
-  left: 0;
-}
-
-.tech-item {
-  font-weight: 600;
-  color: #2c3e50;
-}
-
-/* Design Philosophy */
-.design-philosophy {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-  margin: 1rem 0;
-}
-
-.design-principles {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-  gap: 1rem;
-  margin-top: 1rem;
-}
-
-.principle-item {
-  background: #f8f9fa;
-  padding: 1rem;
-  border-radius: 6px;
-  border-left: 3px solid #3498db;
-}
-
-.principle-title {
-  font-family: 'Helvetica Neue', 'Arial', sans-serif;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: #2c3e50;
-  margin: 0 0 0.5rem 0;
-}
-
-.principle-desc {
-  font-size: 0.85rem;
-  color: #6c757d;
-  margin: 0;
-  line-height: 1.5;
-}
-
-/* Tools Section */
-.tools-section {
-  display: grid;
-  gap: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.tools-category {
-  background: white;
-  padding: 1.5rem;
-  border-radius: 8px;
-  border: 1px solid #e0e0e0;
-}
-
-/* Code Block */
-.code-block {
-  background: #2c3e50;
-  color: #ecf0f1;
-  padding: 1rem;
-  border-radius: 6px;
-  font-family: 'Monaco', 'Consolas', monospace;
-  font-size: 0.85rem;
-  margin: 1rem 0;
-  overflow-x: auto;
-}
-
-/* Highlight */
-.highlight {
-  background: #fff3cd;
-  color: #856404;
-  padding: 0.1rem 0.3rem;
-  border-radius: 3px;
-  font-weight: 600;
-}
-
-/* Responsive Design */
-@media (max-width: 768px) {
-  .cv-container {
-    padding: 1rem;
-  }
-  
-  .certificates-grid {
-    grid-template-columns: 1fr;
-    gap: 1rem;
-  }
-  
-  .design-principles {
-    grid-template-columns: 1fr;
-  }
-  
-  .cv-container h2 {
-    font-size: 1.5rem;
-  }
-  
-  .cv-container h3 {
-    font-size: 1.2rem;
-  }
-}
-
-/* Print Styles */
-@media print {
-  .cv-container {
-    background: white;
-    color: black;
-    font-size: 0.9rem;
-  }
-  
-  .certificate-item {
-    page-break-inside: avoid;
-  }
-  
-  .project-item {
-    page-break-inside: avoid;
-  }
-}
-</style>
