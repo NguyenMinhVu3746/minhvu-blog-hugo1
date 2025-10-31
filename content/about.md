@@ -45,6 +45,8 @@ image: "/images/nguyenminhvu.jpg"
 </div>
 
 ### 🏆 Chứng Chỉ & Thành Tựu
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e9dbec41-7581-4835-91b1-76f25db78981" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="68712994-aa40-4e4b-9dc3-48785f315970" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <div class="certificates-section">
 <div class="certificates-grid">
