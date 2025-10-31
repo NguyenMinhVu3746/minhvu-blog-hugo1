@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://nguyenminhvu3746.github.io/minhvu-blog-hugo1/"
 languageCode = "vi"
 title = "Blog Học Lập Trình JavaScript"
 theme = "smartblog"
@@ -11,7 +11,7 @@ enableEmoji = true
 
 [params]
   description = "Blog cá nhân chia sẻ hành trình và kinh nghiệm học lập trình JavaScript"
-  author = "Nguyễn Minh Vũ" # <-- ĐÃ SỬA TÊN TÁC GIẢ TẠI ĐÂY
+  author = "Nguyễn Minh Vũ"
   authorImage = "/images/avatar.jpg"
   dateFormat = "02/01/2006"
   mainSections = ["posts"]
